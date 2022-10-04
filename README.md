@@ -1,2 +1,2 @@
 # chromextension
-A simple chrome extension that saves leads from webpages
+A simple Javascript chrome extension that saves leads from webpages
